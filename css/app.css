@@ -1,0 +1,133 @@
+body {
+  background-image: url(../img/kitchen.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+ }
+ h1{
+  padding-left: 10px;
+  color: white;
+  text-shadow: 2px 2px #000;
+  font-family: 'Amatic SC', cursive;
+ }
+ .slogan{
+  color: white;
+  font-size: 1.1rem;
+ }
+
+.img-favoritos {
+  margin: 0 auto;
+  width: 200px;
+  margin-top:3px;
+  padding: 3px;
+
+  }
+
+.img-contenido {
+  max-height: 100%;
+  width:100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.principal {
+  background: rgba(120, 190, 255, 0.3 ); 
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.boton  {
+  font-size: 1.1rem;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+  }
+  .button.hollow {
+    border: 1px solid #fff;
+    color: #fff;
+    margin-bottom: 2px;
+}
+
+
+.search {
+  margin: 0 auto;
+  padding-top: 10px;
+  
+}
+.con-iz{
+  background-color: rgba(120, 190, 255, 0.7 );
+  text-align: center;
+  margin: 0 auto;
+  width:100%;
+
+}
+
+.con-der{
+  background-color: rgba(120, 190, 255, 0.4 );
+  text-align: center;
+  margin: 0 auto;
+  width:100%;
+
+}
+
+.list-group {
+  padding: 20px;
+  text-align: left;
+}
+.list-group-item{
+  color: #fff;
+  border: 1px solid #fff;
+  display: block;
+  margin-bottom: 2px;
+  border-radius: 10%; 
+  padding: 5px; 
+}
+.list-group-item:hover{
+  color: yellow;
+  border-radius: 0%; 
+  background: rgba(100, 100, 100, 0.5);
+}
+.titulo{
+  color: black;
+  padding-left: 5px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.3rem;
+  text-shadow: 2px 2px #fff;
+
+}
+.subtitulo {
+  color: #fff;
+  font-size: 15px;
+  padding-left: 10px;
+}
+h2{
+  font-size: 3rem;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 2px 2px #fff;
+}
+
+.contenido {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+p, label{
+  color: #fff;
+  font-size: 1.3rem;
+  text-shadow: 2px 2px #000;
+}
+
+.form {
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+
+.img-usuario {
+    width:70%;
+    height: 70%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
